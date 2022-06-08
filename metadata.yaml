@@ -1,0 +1,35 @@
+_repo: Das-Speicherbuch_68259
+_version: 0.0.1
+contributor:
+  illustrators:
+  - agent_name: Schildt, Carl
+    gutenberg_agent_id: '54681'
+    url: http://www.gutenberg.org/2009/agents/54681
+  - agent_name: Lühring, W.
+    gutenberg_agent_id: '54683'
+    url: http://www.gutenberg.org/2009/agents/54683
+  - agent_name: Förster, Christian
+    gutenberg_agent_id: '54682'
+    url: http://www.gutenberg.org/2009/agents/54682
+creator:
+  author:
+    agent_name: Rabe, Johannes Emil
+    gutenberg_agent_id: '54680'
+    url: http://www.gutenberg.org/2009/agents/54680
+description: ''
+gutenberg_issued: '2022-06-07'
+identifiers:
+  gutenberg: '68259'
+language: de
+pgterms:marc905: 20190308075133rabe
+pgterms:marc906: '1922'
+pgterms:marc907: de
+production_note: the Online Distributed Proofreading Team at https://www.pgdp.net
+publication_note: Germany :Quickborn-Verlag,1922.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Das Speicherbuch
+url: http://www.gutenberg.org/ebooks/68259
